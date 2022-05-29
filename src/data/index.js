@@ -1,0 +1,5 @@
+export {bioData} from './bioData'
+export {experiences} from './experience'
+export {navBarItems} from './navBarItems'
+export {contacts} from './contacts'
+export {skills} from './skills'
